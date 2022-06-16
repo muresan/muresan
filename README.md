@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm a DevOps Architect 
+I'm a DevOps guy 
